@@ -35,7 +35,7 @@ footer:
   copyright: Andrews Magnoni
   location: Location
   social: Around the Web
-  credits: Email
+  credits: Whatsapp
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -59,10 +59,10 @@ social:
 address:
   - line: Rio de Janeiro
   - line: Brazil
-  - line: +55 (21) 96537-8154
+  - line: andrewsmagnoni at gmail dot com
 
 # Credits content
-credits: 'andrewsmagnoni at gmail dot com'
+credits: '+55 (21) 96537-8154'
 
 # Build settings
 markdown: kramdown
