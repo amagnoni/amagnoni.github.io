@@ -4,7 +4,7 @@ email: andrewsmagnoni@gmail.com
 url: https://amagnoni.github.io
 description: "Professional Architecture Visualization Services."
 keywords: "archviz, rendering, 3D, CG, Blender, architecture, cycles, render, bluesheet, house"
-skills: "Archviz"
+skills: "Professional Architecture Visualization Services"
 meta_author: Magnoni Andrews
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Andrews Magnoni
-  location: Location
+#  location: Location
   social: Around the Web
   credits: Credits
 
