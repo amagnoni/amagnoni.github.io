@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Andrews Magnoni
-#  location: Location
+  location: Location
   social: Around the Web
   credits: Credits
 
@@ -47,8 +47,13 @@ social:
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
-#  - title: github
-#    url: http://github.com/jekyll
+  - title: github
+    url: http://github.com/amagnoni
+  - title: instagram
+    url: http://www.instagram.com/amagnoni3/
+  - title: pinterest
+    url: http://pinterest.com/andrewsmagnoni
+
 
 # Postal address (add as many lines as necessary)
 address:
