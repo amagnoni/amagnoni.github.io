@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-09-15
+img: skylounge.jpg
+alt: image-alt
+project-date: September 2017
+client: Mason Jones
+category: Archviz
+description: Archtectural Visualization!
+
+---

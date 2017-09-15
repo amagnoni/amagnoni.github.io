@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-07-15
+img: bighouse.jpg
+alt: image-alt
+project-date: July 2017
+client: Sophia Williams
+category: Archviz
+description: Archtectural Visualization!
+
+---

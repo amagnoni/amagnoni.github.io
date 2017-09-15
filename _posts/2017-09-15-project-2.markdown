@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-08-15
+img: cabides.jpg
+alt: image-alt
+project-date: August 2017
+client: Noah Taylor
+category: Archviz
+description: Archtectural Visualization!
+
+---
