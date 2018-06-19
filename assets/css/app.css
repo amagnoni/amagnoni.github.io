@@ -1,0 +1,123 @@
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,body {
+    font-family: "europa", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 100%
+}
+
+body {
+    background-color: #fff;
+    color: #505050;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box
+}
+
+#page-container {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 3.0625rem;
+}
+
+@media (min-width: 20rem) {
+    #page-container {
+        padding:0 1.25rem;
+    }
+}
+
+@media (min-width: 48rem) {
+    #page-container {
+        padding:0;
+        max-width: 48.75rem
+    }
+}
+
+#page-container .avatar {
+    background-image: url("../images/flyingcat-logo.png");
+    background-size: 250px 100px;
+    width: 250px;
+    height: 100px;
+    margin: 0 auto;
+    margin-bottom: 4.25rem;
+}
+
+#page-container .logo {
+    width: 3.125rem;
+    height: 3.125rem;
+    margin: 0 auto;
+    margin-bottom: 6.25rem
+}
+
+#page-container h1 {
+    font-size: 1.625rem;
+    font-weight: 700;
+    line-height: 2.375rem;
+    text-align: center
+}
+
+#page-container main {
+    display: -ms-flexbox;
+    display: flex
+}
+
+@media (min-width: 20rem) {
+    #page-container main {
+        -ms-flex-direction:column;
+        flex-direction: column;
+        margin-top: 2.375rem
+    }
+}
+
+@media (min-width: 48rem) {
+    #page-container main {
+        -ms-flex-direction:row;
+        flex-direction: row;
+        margin-top: 3.75rem
+    }
+}
+
+#page-container main h2 {
+    font-size: 1.125rem;
+    font-weight: 700
+}
+
+#page-container main p {
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 1.625rem
+}
+
+@media (min-width: 48rem) {
+    #page-container .about {
+        padding-right:6.25rem
+    }
+}
+
+img,svg {
+    max-width: 100%
+}
